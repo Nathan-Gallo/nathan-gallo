@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Nathan-Gallo/nathan-gallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Nathan Gallo and I'm a software developer. My background and education is in accounting/finance where I worked for 6 years. I decided to learn coding and made a career switch. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-gallo)](https://github.com/nathan-gallo/github-readme-stats)
+
+
+
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.twitter.com/NathanGallo3219
+[2]: https://www.linkedin.com/in/nathan-gallo-17773a92/
