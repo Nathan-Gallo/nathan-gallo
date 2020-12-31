@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-My name is Nathan Gallo and I'm a software developer. My background and education is in accounting/finance where I worked for 6 years. I decided to learn coding and made a career switch. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+My name is Nathan Gallo and I'm an Emerging Technologies Engineer. 
+
+I have a Bachelors degree in Accounting and worked as an investment accountant for one year. I then got a job in the same company as an investment analyst. My company offered a coding bootcamp to train employees and place them in developer roles, I was intrigued by this and took part. I loved coding and I'm now excited to grow my skills and continue down the architect career path.
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-gallo)](https://github.com/nathan-gallo/github-readme-stats)
